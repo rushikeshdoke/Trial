@@ -1,0 +1,7 @@
+Hello, my name is Rushikesh. I am a recent graduate in Computer Science and Engineering from SKN Sinhgad College of Engineering, Korti. I have developed a strong foundation in programming languages such as Java, C, C++, HTML, CSS, and Bootstrap. Additionally, I have practical experience from an internship in Java development, where I worked on real-time projects, enhancing my technical and problem-solving skills.
+
+During my academic journey, I worked on several projects, both individually and as part of a team. One notable team project was the Student Monitoring System for College, which received the second prize in a project presentation competition. This achievement highlighted our ability to collaborate effectively, innovate, and present solutions to real-world problems.
+
+I also had the privilege of leading as a member of the Entrepreneur Development Club, where I organized and participated in various college-level events aimed at fostering entrepreneurial skills and teamwork. Furthermore, I completed a Java Full Stack Development course, gaining expertise in areas such as JDBC and backend development.
+
+In my free time, I enjoy listening to motivational speeches to stay inspired and listening to music to relax and rejuvenate.
